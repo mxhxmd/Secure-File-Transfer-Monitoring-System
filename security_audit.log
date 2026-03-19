@@ -1,0 +1,5 @@
+2026-03-20 02:55:48,088 - [ALERT] - FILE CREATED: ./sensitive_data\New Microsoft Word Document.docx | Initial Hash: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+2026-03-20 02:55:56,107 - [ALERT] - SUSPICIOUS MOVEMENT: From ./sensitive_data\New Microsoft Word Document.docx to ./sensitive_data\test.txt
+2026-03-20 02:55:56,108 - [ALERT] - FILE MODIFIED: ./sensitive_data\test.txt | New Hash: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+2026-03-20 02:56:01,119 - [ALERT] - FILE MODIFIED: ./sensitive_data\test.txt | New Hash: cd2eca3535741f27a8ae40c31b0c41d4057a7a7b912b33b9aed86485d1c84676
+2026-03-20 02:56:04,957 - [ALERT] - UNAUTHORIZED DELETION: Sensitive file removed: ./sensitive_data\test.txt
